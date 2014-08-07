@@ -1,0 +1,9 @@
+<?php
+	//Database
+	$mysql_hostname='localhost';
+	$mysql_user='europick_user';
+	$mysql_password='ventatti';
+	$mysql_database='europick_data';
+	//Error 
+	error_reporting(E_ALL);
+?>
